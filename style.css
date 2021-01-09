@@ -14,12 +14,7 @@ body {
   max-width: 71.25rem;
   margin: 1em auto;
   color: #1b262c;
-  background: #ece9e6; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #ffffff,
-    #ece9e6
-  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: #ece9e6; /* fallback for old browsers */ /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
     #ffffff,
